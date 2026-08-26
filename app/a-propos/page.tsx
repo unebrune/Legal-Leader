@@ -22,10 +22,7 @@ export default function AboutPage() {
             Un cabinet juridique conçu pour les bâtisseurs d'entreprise
           </h1>
           <p className="mt-6 text-balance text-lg leading-relaxed text-beige-100/65">
-            LegalLeader est né d'une conviction : le droit des affaires doit
-            être un levier, pas un frein. Nous accompagnons dirigeants et
-            porteurs de projet avec la rigueur d'un cabinet traditionnel et
-            l'agilité d'une structure legal tech.
+            LegalLeader est une legaltech dédiée aux entrepreneurs, dirigeants et professionnels qui souhaitent créer, sécuriser et mettre en conformité leur entreprise, tout en bénéficiant d’un accompagnement juridique accessible et personnalisé. Notre objectif est simple : faciliter l’accès au droit et permettre à chaque entrepreneur de se concentrer pleinement sur le développement de son activité.
           </p>
         </div>
       </section>
@@ -38,15 +35,16 @@ export default function AboutPage() {
           />
           <Reveal delay={80} className="space-y-5 text-base leading-relaxed text-beige-100/65">
             <p>
-              Nous croyons que l'accompagnement juridique doit s'adapter au
-              rythme de l'entrepreneuriat moderne : rapide, transparent et
-              exigeant. Notre mission est de vous permettre de vous concentrer
-              sur votre activité pendant que nous sécurisons son cadre légal.
+              Nous intervenons à toutes les étapes de la vie d’une entreprise: création de société, modifications juridiques, approbation annuelle des comptes, fermeture ou cessation d’activité, mais également dans la protection et la sécurisation de vos projets. Dépôt de marques et de brevets, rédaction de CGV, CGU et mentions légales, contrats commerciaux, conformité juridique ou encore accompagnement dans vos différentes démarches liés a des secteurs particuliers comme le transport (DRIEAT), le médical, la restauration et tout autre secteur réglementé : 
+              LegalLeader vous accompagne de manière globale et adaptée à vos besoins
             </p>
             <p>
-              Notre vision : devenir le partenaire juridique de référence des
-              entrepreneurs et sociétés commerciales qui recherchent liberté
-              d'action, structure solide et accompagnement de confiance.
+              Notre équipe est composée de juristes spécialisés en droit des affaires, droit des sociétés et droit de la concurrence. La particularité de LegalLeader repose sur la polyvalence de ses juristes, qui associent des compétences juridiques, économiques et commerciales et digitales. Cette approche nous permet de comprendre votre entreprise dans son ensemble et de vous proposer des solutions qui prennent en compte aussi bien les enjeux juridiques que les réalités concrètes de votre activité
+            <br>
+            Chez LegalLeader, nous plaçons également la relation avec nos clients au cœur de notre accompagnement. Chaque dossier est traité avec attention, rigueur et implication. Nous prenons le temps de comprendre votre projet, vos objectifs et vos contraintes afin de vous proposer un accompagnement réellement adapté à votre situation.
+
+Parce que derrière chaque entreprise se trouve un projet, une ambition et une vision, nous avons à cœur de participer à votre réussite car elle est également la  la nôtre
+            </br>
             </p>
           </Reveal>
         </div>
@@ -124,11 +122,8 @@ export default function AboutPage() {
           />
           <Reveal delay={80} className="mx-auto mt-6 max-w-2xl">
             <p className="text-balance text-center text-base leading-relaxed text-beige-100/65">
-              LegalLeader n'est ni un simple prestataire de formalités, ni un
-              cabinet traditionnel figé dans ses process. Nous combinons
-              expertise juridique pointue et outils digitaux pour offrir à nos
-              clients une expérience premium, fluide et parfaitement
-              transparente — à Paris comme partout en France.
+             LegalLeader réunit expertise en droit des affaires et approche digitale pour offrir à ses clients une expérience juridique à la hauteur de leurs ambitions. Réactivité, transparence et rigueur sont les maîtres mots de notre accompagnement.
+Chaque dossier, de la création à la structuration, en passant par la protection, le développement et la transmission de l’entreprise, est traité avec la même exigence : sécuriser juridiquement votre projet sans jamais freiner son élan
             </p>
           </Reveal>
         </div>

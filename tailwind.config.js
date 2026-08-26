@@ -59,7 +59,7 @@ module.exports = {
       transitionTimingFunction: {
         fluid: "cubic-bezier(0.16, 1, 0.3, 1)",
       },
-      keyframes: {
+            keyframes: {
         "fade-up": {
           "0%": { opacity: "0", transform: "translateY(16px)" },
           "100%": { opacity: "1", transform: "translateY(0)" },
@@ -72,11 +72,16 @@ module.exports = {
           "0%, 100%": { opacity: "0.55" },
           "50%": { opacity: "1" },
         },
+        marquee: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" },
+        },
       },
       animation: {
         "fade-up": "fade-up 0.8s cubic-bezier(0.16,1,0.3,1) both",
         shimmer: "shimmer 3s linear infinite",
         "pulse-glow": "pulse-glow 3s ease-in-out infinite",
+        marquee: "marquee 28s linear infinite",
       },
     },
   },

@@ -10,6 +10,7 @@ import Reveal from "@/components/ScrollReveal";
 import AnimatedCounter from "@/components/AnimatedCounter";
 import { services } from "@/lib/data/services";
 import { blogPosts } from "@/lib/data/blog";
+import LogoMarquee from "@/components/LogoMarquee";
 
 export default function HomePage() {
   const featuredServices = services.slice(0, 3);
@@ -98,6 +99,15 @@ export default function HomePage() {
           </Reveal>
         </div>
       </section>
+      {/* Ils nous ont fait confiance */}
+<section className="section-pad border-t border-beige-100/10">
+  <div className="container-xl">
+    <SectionHeading title="Ils nous ont fait confiance" align="center" />
+    <div className="mt-14">
+      <LogoMarquee />
+    </div>
+  </div>
+</section>
 
       {/* Services overview */}
       <section className="section-pad border-t border-beige-100/10">

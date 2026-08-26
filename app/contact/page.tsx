@@ -35,9 +35,9 @@ export default function ContactPage() {
                 <li className="flex items-start gap-3">
                   <MapPin size={18} className="mt-0.5 shrink-0 text-gold-500" />
                   <span className="text-beige-100/70">
-                    4 Allée de Lutece
+                    Avenue Marceau
                     <br />
-                    95240 Cormeilles-en-Parisis, IDF France
+                    75008 PARIS
                   </span>
                 </li>
                 <li className="flex items-center gap-3">

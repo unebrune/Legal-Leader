@@ -25,6 +25,7 @@ export const blogPosts: BlogPost[] = [
       "L’objectif poursuivi par l’administration est notamment de simplifier les échanges entre entreprises, d’améliorer le suivi des transactions, de faciliter à terme le préremplissage des déclarations de TVA et de renforcer la lutte contre la fraude fiscale. ",
       "La réforme concerne, en principe, toutes les entreprises assujetties à la TVA établies en France, qu’elles soient effectivement redevables de la TVA ou non",
       "Selon l’administration fiscale, est assujettie à la TVA toute personne physique ou morale qui exerce de manière indépendante et habituelle une activité économique à titre onéreux. Il peut donc notamment s’agir d’une société commerciale telle qu’une SAS, SASU, SARL ou EURL, mais également d’un entrepreneur individuel, d'un microentrepreneur ou, dans certaines situations, d'une association ou d'une société civile exerçant une activité économique",
+      "Il est important de distinguer « assujetti à la TVA » et « redevable de la TVA ». Une entreprise bénéficiant de la franchise en base de TVA peut, par exemple, ne pas facturer de TVA à ses clients tout en demeurant assujettie au sens fiscal du terme. Elle peut donc être concernée par la réforme. "
     ],
   },
   {

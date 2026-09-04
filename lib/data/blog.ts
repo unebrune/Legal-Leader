@@ -13,18 +13,18 @@ export type BlogPost = {
 // See lib/supabase/client.ts for the query used by app/blog/page.tsx.
 export const blogPosts: BlogPost[] = [
   {
-    slug: "choisir-statut-juridique-sas-sarl",
-    title: "SAS ou SARL : comment choisir le statut juridique adapté à votre projet",
+   slug: "choisir-statut-juridique-sas-sarl",
+    title: "Facturation électronique : ce qui change pour les entreprises à compter de 2026",
     excerpt:
-      "Gouvernance, régime social du dirigeant, fiscalité : les critères déterminants pour arbitrer entre SAS et SARL en 2026.",
-    category: "Création d'entreprise",
-    date: "2026-07-18",
-    readingTime: "6 min",
+      "Depuis le 1er septembre 2026, la réforme de la facturation électronique est officiellement entrée dans sa phase opérationnelle en France. Cette évolution constitue un changement important dans les habitudes de facturation des entreprises : à terme, l’envoi d’une simple facture au format PDF par e-mail ne suffira plus pour les opérations entrant dans le champ de la réforme",
+    category: "Facturation électronique",
+    date: "2026-09-04",
+    readingTime: "10 min",
     content: [
-      "Le choix du statut juridique conditionne durablement la gouvernance, la fiscalité et la protection sociale du dirigeant. Deux formes dominent la création d'entreprise en France : la SAS et la SARL.",
-      "La SAS séduit par sa souplesse statutaire : liberté d'organisation, facilité d'entrée d'investisseurs, régime social assimilé-salarié pour le président. Elle est aujourd'hui la structure de référence des porteurs de projet en croissance.",
-      "La SARL, plus encadrée par la loi, reste pertinente pour les structures familiales ou à associés stables recherchant un formalisme protecteur et un régime social TNS potentiellement plus économique pour le gérant majoritaire.",
-      "Notre recommandation : l'arbitrage doit intégrer vos perspectives de levée de fonds, le nombre d'associés envisagé et votre stratégie de rémunération. Un audit personnalisé avec un juriste LegalLeader permet de sécuriser ce choix dès la constitution.",
+      "Depuis le 1er septembre 2026, la réforme de la facturation électronique est officiellement entrée dans sa phase opérationnelle en France. Cette évolution constitue un changement important dans les habitudes de facturation des entreprises : à terme, l’envoi d’une simple facture au format PDF par e-mail ne suffira plus pour les opérations entrant dans le champ de la réforme",
+      "L’objectif poursuivi par l’administration est notamment de simplifier les échanges entre entreprises, d’améliorer le suivi des transactions, de faciliter à terme le préremplissage des déclarations de TVA et de renforcer la lutte contre la fraude fiscale. ",
+      "La réforme concerne, en principe, toutes les entreprises assujetties à la TVA établies en France, qu’elles soient effectivement redevables de la TVA ou non",
+      "Selon l’administration fiscale, est assujettie à la TVA toute personne physique ou morale qui exerce de manière indépendante et habituelle une activité économique à titre onéreux. Il peut donc notamment s’agir d’une société commerciale telle qu’une SAS, SASU, SARL ou EURL, mais également d’un entrepreneur individuel, d'un microentrepreneur ou, dans certaines situations, d'une association ou d'une société civile exerçant une activité économique",
     ],
   },
   {

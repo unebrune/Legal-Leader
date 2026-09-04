@@ -86,16 +86,45 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "proteger-marque-depot-inpi",
-    title: "Pourquoi déposer sa marque dès la création de votre entreprise",
+    title: "Loi de simplification de la vie économique 2026",
     excerpt:
-      "Antériorité, exclusivité, valorisation : les raisons stratégiques de protéger votre marque sans attendre.",
-    category: "Propriété intellectuelle",
-    date: "2026-06-12",
-    readingTime: "5 min",
+      "Promulguée le 26 mai 2026, la loi n° 2026-403 de simplification de la vie économique introduit de nombreuses mesures destinées à alléger les démarches des entreprises, à faciliter leurs relations avec l’administration, les banques et les assureurs, à moderniser la commande publique et à sécuriser certaines opérations de transmission.",
+    category: "Loi de simplification de la vie économique",
+    date: "2026-09-04",
+    readingTime: "10 min",
     content: [
-      "Beaucoup d'entrepreneurs repoussent le dépôt de marque, le considérant comme une démarche secondaire. C'est pourtant l'un des actifs les plus stratégiques d'une jeune entreprise.",
-      "Déposer sa marque auprès de l'INPI confère un monopole d'exploitation sur le territoire visé et empêche un tiers de s'approprier votre identité commerciale.",
-      "Une recherche d'antériorité préalable, réalisée par nos juristes, permet d'éviter tout risque de conflit avec une marque existante avant d'engager votre communication.",
+      "Toutes les mesures n’entrent pas en vigueur à la même date : certaines sont applicables depuis le 28 mai 2026, d’autres à compter du 1er janvier 2027, tandis que plusieurs dispositions restent subordonnées à la publication de textes réglementaires",
+      "À retenir : la loi ne se limite pas aux formalités administratives. Elle touche aussi la cession d’entreprise, les baux commerciaux, les marchés publics, les relations bancaires et assurantielles et certaines obligations de déclaration",
+      "**1. Cession et transmission d’entreprise : des procédures allégées**",
+      "La loi simplifie l’information préalable des salariés lors de certaines ventes de fonds de commerce ou cessions de participations donnant accès à la majorité du capital. Pour les ventes conclues après le 27 juillet 2026, le délai minimal d’information est ramené de deux mois à un mois lorsque le dispositif s’applique.",
+    "Dans les entreprises d’au moins 50 salariés dotées du CSE concerné, l’information individuelle des salariés est remplacée par l’information-consultation du comité social et économique. Le plafond de l’amende civile encourue en cas de manquement passe, par ailleurs, de 2 % à 0,5 % du montant de la vente.",
+    "La transmission à titre gratuit des PME est également sécurisée : lorsqu’un dirigeant demande à l’administration fiscale de valider la valeur d’une entreprise individuelle ou de titres sociaux dans le cadre d’une donation, l’administration dispose de six mois pour répondre. Pour les PME au sens du droit européen, son silence à l’issue de ce délai vaut désormais acceptation de la valeur proposée. ",
+    "**2. Baux commerciaux : davantage de souplesse pour les locataires**",
+    "Depuis le 28 mai 2026, le locataire d’un local commercial, artisanal ou de services peut demander la mensualisation de son loyer, y compris lorsque le bail était déjà en cours à la date de promulgation de la loi, sauf en présence d’arriérés de loyers ou de charges non contestés. Le bailleur ne peut pas s’y opposer ni prévoir une clause contraire.",
+    "Pour les baux conclus ou renouvelés à compter du 26 mai 2026, lorsque le local bénéficie de ce droit à la mensualisation, le dépôt de garantie et l’ensemble des garanties exigées par le bailleur ne peuvent excéder l’équivalent d’un trimestre de loyer. La loi encadre aussi la restitution des garanties : lorsque les clés sont remises à compter du 26 août 2026, le dépôt de garantie doit en principe être restitué dans un délai maximal de trois mois, sous réserve des sommes restant dues et justifiées.",
+    "**3. Marchés publics : un accès progressivement simplifié**",
+    "La réforme prévoit une centralisation progressive des procédures et échanges relatifs aux marchés publics sur la plateforme « Place ». Au plus tard le 31 décembre 2030, elle devra être utilisée pour les marchés publics de l’État, de ses opérateurs, des hôpitaux et des organismes de sécurité sociale, selon un calendrier fixé par décret.",
+      "Depuis le 28 mai 2026, certains lots peuvent également être réservés aux jeunes entreprises innovantes, sous les conditions prévues par le code de la commande publique. À compter du 1er janvier 2027, certains marchés de travaux pourront en outre être conclus sans publicité ni mise en concurrence préalables lorsque leur montant reste inférieur au seuil européen applicable, dans les conditions prévues par la loi.",
+      "",
+      "**4. Banque et assurance : de nouveaux droits pour les professionnels**",
+      "Depuis le 28 mai 2026, la clôture d’un compte de dépôt ou d’un compte sur livret est gratuite pour les entreprises et les autres personnes morales. Les microentreprises doivent également recevoir chaque année un relevé récapitulatif gratuit de leurs frais bancaires. À compter du 1er janvier 2027, les banques devront utiliser des dénominations harmonisées pour les principaux frais et services bancaires, afin de faciliter leur compréhension et leur comparaison. ",
+      "La loi encadre également certains délais d’indemnisation des sinistres professionnels, mais cette mesure dépend encore d’un décret. Lorsqu’elle sera applicable, l’assureur devra notamment respecter des délais maximaux pour présenter une proposition d’indemnisation, de réparation ou un refus motivé. Les PME et microentreprises pourront aussi, pour certains contrats concernés, bénéficier d’une résiliation à tout moment après un an d’engagement, sans frais ni pénalités, selon les conditions qui seront précisées par voie réglementaire.",
+      "5. Formalités administratives : plusieurs obligations supprimées ou allégées",
+      "Depuis le 28 mai 2026, l’employeur qui recrute un apprenti n’a plus à effectuer l’ancienne déclaration préalable attestant de l’organisation de l’apprentissage dans l’entreprise. Les obligations de fond relatives à la formation et aux compétences du maître d’apprentissage restent toutefois applicables. Les commerçants ne sont plus tenus de déclarer en mairie l’organisation d’une liquidation commerciale ni de transmettre l’inventaire des marchandises concernées. Certaines démarches ont aussi été allégées pour les ventes au déballage, les entreprises de portage salarial et certains groupements d’employeurs.",
+      "À compter du 1er janvier 2027, les entreprises effectuant plus de 10 000 euros de dons ouvrant droit à la réduction d’impôt au titre du mécénat ne seront plus soumises à la déclaration spécifique correspondante. En contrepartie, les sociétés soumises à l’obligation d’établir un rapport de gestion devront y présenter leurs principales actions de mécénat.",
+      "**6. Un « test entreprises » pour mieux mesurer l’impact des nouvellesnormes**",
+      "La loi crée un Conseil de la simplification pour les entreprises, chargé d’évaluer l’impact technique, administratif et financier de certains projets de textes applicables aux entreprises. Ses avis intégreront un « test entreprises » destiné à anticiper plus concrètement les coûts, contraintes et conséquences pratiques des nouvelles normes.",
+      "**Ce que les dirigeants doivent vérifier dès maintenant**",
+      " identifier les mesures applicables immédiatement à leur activité ;  repérer celles qui entreront en vigueur au 1er janvier 2027 ; surveiller les décrets d’application lorsqu’une mesure n’est pas encore pleinement opérationnelle ;  adapter les procédures internes, contrats, baux ou pratiques administratives si nécessaire. La loi de simplification de la vie économique constitue donc une réforme transversale. Son impact dépend fortement de la taille de l’entreprise, de son secteur d’activité et de la nature de ses opérations. Une vérification au cas par cas reste recommandée avant de modifier une pratique ou de s’appuyer sur une mesure nouvelle.",
+      "Sources",
+      " Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique - Légifrance.  Ministère de l’Économie et des Finances, « Loi de simplification de la vie économique : ce qui change pour les entreprises », 8 juin 2026.  Code de commerce, Code de la commande publique et dispositions modifiées par la loi.",
+
+
+
+
+
+
+
     ],
   },
 ];

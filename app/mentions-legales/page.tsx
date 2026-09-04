@@ -20,19 +20,20 @@ export default function MentionsLegalesPage() {
               Éditeur du site
             </h2>
             <p className="mt-3">
-              [Nom de la société] — [Forme juridique, ex. SAS/SARL]
+              Le présent site, accessible à l'adresse www.legal-leader.fr, est édité sous le nom commercial
+LegalLeader
               <br />
-              Capital social : [Montant] €
+              Éditeur : LegalLeader
               <br />
-              Siège social : [Adresse complète]
+              Forme juridique : EI 
               <br />
-              RCS [Ville] n° [Numéro RCS] — SIRET : [Numéro SIRET]
+              Siège social : Avenue Marceau, PARIS
               <br />
-              Numéro de TVA intracommunautaire : [Numéro]
+              SIREN : 843261645
               <br />
-              Directeur de la publication : [Nom, prénom]
+              SIRET : 84326164500025
               <br />
-              Email : contact@legalleader.fr — Téléphone : [Numéro]
+              Adresse électronique : contact@legal-leader.fr | Téléphone : 0632138325
             </p>
           </div>
 
@@ -41,11 +42,11 @@ export default function MentionsLegalesPage() {
               Hébergement
             </h2>
             <p className="mt-3">
-              [Nom de l'hébergeur]
+              Vercel
               <br />
-              [Adresse de l'hébergeur]
+              440 N Barranca Ave #4133, Covina, CA 91723 
               <br />
-              [Site web / contact de l'hébergeur]
+              www.techbywe.com
             </p>
           </div>
 
@@ -54,11 +55,19 @@ export default function MentionsLegalesPage() {
               Propriété intellectuelle
             </h2>
             <p className="mt-3">
-              L'ensemble des contenus présents sur ce site (textes, images,
-              logos, structure) est protégé par le droit de la propriété
-              intellectuelle. Toute reproduction, représentation ou
-              diffusion, en tout ou partie, sans autorisation préalable de
-              [Nom de la société], est interdite.
+              La structure générale du site ainsi que l'ensemble de ses contenus, notamment les textes,
+dénominations, éléments graphiques, logos, marques, icônes, photographies, illustrations, vidéos,
+documents, modèles, formations, supports pédagogiques, méthodes, présentations, bases de données
+et éléments téléchargeables, sont susceptibles d'être protégés par les dispositions applicables en
+matière de propriété intellectuelle.
+Sauf autorisation écrite préalable de LegalLeader ou disposition légale contraire, toute reproduction,
+représentation, adaptation, extraction, diffusion, commercialisation ou exploitation, totale ou
+partielle, de ces éléments est interdite.
+L'accès au site n'emporte aucune cession de droits de propriété intellectuelle au bénéfice de
+l'utilisateur.
+La dénomination LegalLeader, son identité visuelle et les signes distinctifs qui lui sont associés ne
+peuvent notamment pas être utilisés d'une manière susceptible de créer une confusion quant à
+l'existence d'un partenariat, d'une autorisation ou d'un lien avec LegalLeader. 
             </p>
           </div>
 
@@ -80,14 +89,24 @@ export default function MentionsLegalesPage() {
               Droit applicable
             </h2>
             <p className="mt-3">
-              Les présentes mentions légales sont soumises au droit
-              français. En cas de litige, les tribunaux français seront
-              seuls compétents.
+              LegalLeader met en œuvre les moyens raisonnablement nécessaires pour assurer la qualité et la
+sécurité de son site.
+L'utilisateur demeure néanmoins responsable :
+* du matériel et de la connexion qu'il utilise ;
+* de la sécurité de ses identifiants ;
+* des informations et documents qu'il communique ;
+* de l'exactitude, de l'exhaustivité et de l'actualité des éléments transmis ;
+* du respect des délais et obligations qui lui incombent lorsqu'ils ne font pas expressément partie
+d'une mission confiée et acceptée par LegalLeader.
+LegalLeader ne pourra être tenue responsable des conséquences résultant d'informations inexactes,
+incomplètes, frauduleuses, tardives ou non communiquées par l'utilisateur.
+Aucune disposition des présentes mentions légales ne saurait toutefois avoir pour objet ou pour effet
+d'exclure ou de limiter une responsabilité qui ne pourrait légalement l'être. 
             </p>
           </div>
 
           <p className="text-xs text-beige-100/40">
-            Dernière mise à jour : [Date]
+            Dernière mise à jour : 04/09/2026
           </p>
         </div>
       </div>

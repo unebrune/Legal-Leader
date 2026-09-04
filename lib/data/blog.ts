@@ -32,17 +32,17 @@ export const blogPosts: BlogPost[] = [
       "À compter du 1er septembre 2027, les petites et moyennes entreprises (PME), les très petites entreprises (TPE) ainsi que les micro entreprises bénéficieront d'une année supplémentaire concernant l'émission. Elles devront donc émettre leurs factures électroniques à compter du 1er septembre 2027. Attention, cela ne signifie pas qu'elles peuvent attendre 2027 pour s'intéresser à la réforme. Depuis le 1er septembre 2026, elles doivent déjà être capables de recevoir les factures électroniques envoyées notamment par leurs fournisseurs soumis à l'obligation d'émission. Le calendrier officiel est donc le suivant : "
       "1er septembre 2026 : toutes les entreprises concernées doivent pouvoir recevoir des factures électroniques ; les grandes entreprises et ETI doivent également les émettre.",
       "1er septembre 2027 : les PME et micro entreprises devront à leur tour émettre leurs factures électroniquement",
-      
+
     ],
   },
   {
     slug: "transfert-siege-social-etapes",
-    title: "Transfert de siège social : les 4 étapes à ne pas manquer",
+    title: "Cession d’entreprise : l’information préalable des salariés simplifiée en 2026",
     excerpt:
-      "Décision, statuts, publication légale, greffe : le parcours complet pour transférer votre siège social sans erreur.",
-    category: "Modifications statutaires",
-    date: "2026-06-30",
-    readingTime: "4 min",
+      "La loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique a modifié les règles applicables à l’information des salariés en cas de cession d’entreprise. L’objectif est d’alléger les contraintes pesant sur les dirigeants tout en maintenant, dans les cas prévus par la loi, la possibilité pour les salariés de présenter une offre de reprise",
+    category: "Cession d’entreprise",
+    date: "2026-09-04",
+    readingTime: "7 min",
     content: [
       "Le transfert de siège social est l'une des modifications statutaires les plus fréquentes, notamment pour les sociétés en croissance qui rejoignent la région parisienne.",
       "Première étape : la décision, prise en assemblée générale ou par le dirigeant si les statuts l'y autorisent. Deuxième étape : la mise à jour des statuts. Troisième étape : la publication d'une annonce légale dans le département du nouveau siège. Quatrième étape : le dépôt du dossier au greffe du tribunal de commerce compétent.",

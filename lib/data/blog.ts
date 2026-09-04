@@ -32,8 +32,18 @@ export const blogPosts: BlogPost[] = [
       "À compter du 1er septembre 2027, les petites et moyennes entreprises (PME), les très petites entreprises (TPE) ainsi que les micro entreprises bénéficieront d'une année supplémentaire concernant l'émission. Elles devront donc émettre leurs factures électroniques à compter du 1er septembre 2027. Attention, cela ne signifie pas qu'elles peuvent attendre 2027 pour s'intéresser à la réforme. Depuis le 1er septembre 2026, elles doivent déjà être capables de recevoir les factures électroniques envoyées notamment par leurs fournisseurs soumis à l'obligation d'émission. Le calendrier officiel est donc le suivant : "
       "1er septembre 2026 : toutes les entreprises concernées doivent pouvoir recevoir des factures électroniques ; les grandes entreprises et ETI doivent également les émettre.",
       "1er septembre 2027 : les PME et micro entreprises devront à leur tour émettre leurs factures électroniquement",
-
-    ],
+      "** Une facture PDF envoyée par e-mail ne suffit plus  **",
+      "L'une des principales erreurs consiste à considérer qu'une facture électronique correspond simplement à une facture créée sur ordinateur et envoyée par e-mail. Ce n'est pas le cas. Au sens de la réforme, une facture électronique doit être émise, transmise et reçue sous une forme dématérialisée comportant des données structurées. Elle doit notamment respecter les formats admis par le dispositif et transiter par une plateforme agréée.",
+      "Les entreprises doivent ainsi choisir une plateforme agréée afin d'assurer la réception et, selon leur calendrier d'entrée en vigueur, l'émission de leurs factures électroniques. Ces plateformes jouent désormais un rôle central : elles permettent notamment la transmission des factures entre fournisseurs et clients ainsi que la remontée de certaines informations auprès de l'administration fiscale. La liste officielle des plateformes agréées est publiée et actualisée sur le site "impots.gouv.fr" ",
+      "**Facturation électronique et e-reporting : quelle différence ?**",
+      "La réforme ne concerne pas uniquement les factures échangées entre entreprises. La facturation électronique, ou e-invoicing, vise principalement les opérations réalisées entre entreprises assujetties à la TVA établies en France lorsque celles-ci entrent dans son champ d'application. ",
+      "Pour certaines opérations qui ne donnent pas lieu à une facture électronique, notamment certaines transactions réalisées avec des particuliers ou avec des opérateurs établis à l’étranger, l'entreprise peut être soumise à une obligation de transmission électronique de données à l'administration, appelée « e-reporting »",
+      "Il convient donc pour chaque entreprise d'identifier précisément la nature de ses clients, ses opérations et son régime de TVA afin de déterminer les obligations qui lui sont applicables.",
+    "**Comment les entreprises doivent-elles se préparer ?**",
+    "Même pour les PME dont l'obligation d'émission ne débutera qu'en septembre 2027, la réforme nécessite une véritable anticipation. Les entreprises doivent notamment vérifier leur situation au regard de la TVA, identifier la catégorie à laquelle elles appartiennent, choisir une plateforme agréée, vérifier la compatibilité de leur logiciel de facturation et adapter, si nécessaire, leurs procédures administratives et comptables"
+    "La facturation électronique constitue ainsi bien plus qu'un simple changement de format : elle entraîne une transformation durable des processus de facturation et de transmission des données des entreprises. Pour vérifier votre situation et connaître précisément vos obligations, vous pouvez consulter le portail officiel consacré à la facturation électronique sur "impots.gouv.fr".",
+    "LegalLeader accompagne les entreprises dans la compréhension de leurs obligations juridiques et réglementaires ainsi que dans le suivi des évolutions susceptibles d'impacter leur activité.",
+  ],
   },
   {
     slug: "transfert-siege-social-etapes",

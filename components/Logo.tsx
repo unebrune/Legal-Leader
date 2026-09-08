@@ -20,7 +20,7 @@ export default function Logo({ className = "" }: { className?: string }) {
           LEGALLEADER
         </span>
         <span className="text-[10px] uppercase tracking-[0.2em] text-beige-100/50">
-          Camilia | Droit des affaires
+          Droit des affaires
         </span>
       </span>
     </Link>

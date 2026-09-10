@@ -38,7 +38,7 @@ export default function HomePage() {
             style={{ animationDelay: "160ms" }}
           >
             LEGALLEADER accompagne entrepreneurs, sociétés commerciales et
-            porteurs de projet dans chaque étape juridique de leur croissance 
+            porteurs de projet a chaque étape de leur croissance 
             avec la rigueur du droit et la fluidité d'un cabinet digital.
           </p>
           <div

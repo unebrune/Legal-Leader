@@ -12,18 +12,18 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 // `next/font/google` Inter for `--font-body` if a distinct body face is
 // preferred; see tailwind.config.js `fontFamily.body`.
 
-const SITE_URL = "https://www.legalleader.fr";
+const SITE_URL = "https://www.legal-leader.fr";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "LegalLeader — Cabinet d'avocats en droit des affaires à Paris",
+    default: "LegalLeader — Cabinet juridique en droit des affaires à Paris",
     template: "%s | LegalLeader",
   },
   description:
     "LegalLeader accompagne entrepreneurs et sociétés commerciales dans leurs démarches juridiques : création d'entreprise, modifications statutaires, contrats commerciaux, propriété intellectuelle. Cabinet basé à Paris, intervenant dans toute la France.",
   keywords: [
-    "avocat droit des affaires Paris",
+    "juriste en droit des affaires Paris",
     "création société",
     "SAS",
     "SARL",
@@ -40,13 +40,13 @@ export const metadata: Metadata = {
     locale: "fr_FR",
     url: SITE_URL,
     siteName: "LegalLeader",
-    title: "LegalLeader — Cabinet d'avocats en droit des affaires à Paris",
+    title: "LegalLeader — Cabinet juridique en droit des affaires à Paris",
     description:
       "Excellence juridique au service de vos ambitions entrepreneuriales. Création, structuration, protection : un cabinet digital et rigoureux.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "LegalLeader — Cabinet d'avocats en droit des affaires",
+    title: "LegalLeader — Cabinet juridique en droit des affaires",
     description:
       "Excellence juridique au service de vos ambitions entrepreneuriales.",
   },

@@ -114,7 +114,7 @@ export default function ContactForm() {
         <select id="serviceInterest" name="serviceInterest" className="input-field">
           <option value="">Sélectionner un service</option>
           {services.map((s) => (
-            <option key={s.slug} value={s.title}>
+                        <option key={s.slug} value={s.title} className="bg-neutral-900 text-beige-50">
               {s.title}
             </option>
           ))}

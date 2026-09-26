@@ -65,7 +65,7 @@ export const services: ServiceDetail[] = [
   },
   {
     slug: "modifications-statutaires",
-    title: "MODIFICATION STATUAIRES",
+    title: "MODIFICATION STATUAIRE",
     shortTitle: "Modifications",
     summary:
       "Transfert de siège, changement de dénomination, augmentation de capital, cession de parts et transformations.",

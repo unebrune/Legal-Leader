@@ -19,7 +19,7 @@ export default function AboutPage() {
         <div className="container-xl relative max-w-3xl">
           <p className="eyebrow mb-5">À propos de LegalLeader</p>
           <h1 className="text-balance font-heading text-4xl font-medium tracking-tight text-beige-50 md:text-5xl">
-            Un cabinet juridique conçu pour les bâtisseurs d'entreprise
+            Un cabinet juridique conçu pour les entrepreneurs d'entreprise
           </h1>
           <p className="mt-6 text-balance text-lg leading-relaxed text-beige-100/65">
             LegalLeader est une legaltech dédiée aux entrepreneurs, dirigeants et professionnels qui souhaitent créer, sécuriser et mettre en conformité leur entreprise, tout en bénéficiant d’un accompagnement juridique accessible et personnalisé. Notre objectif est simple : faciliter l’accès au droit et permettre à chaque entrepreneur de se concentrer pleinement sur le développement de son activité.

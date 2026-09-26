@@ -114,7 +114,7 @@ export default function HomePage() {
         <div className="container-xl">
           <div className="flex flex-col justify-between gap-6 md:flex-row md:items-end">
             <SectionHeading
-              eyebrow="Nos expertises"
+              eyebrow="Notre expertise"
               title="Un accompagnement juridique complet, du premier jour à la croissance"
               description="De la constitution à la protection de vos actifs immatériels, nos juristes couvrent l'intégralité du cycle de vie de votre société."
             />

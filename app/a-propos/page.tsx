@@ -33,7 +33,7 @@ export default function AboutPage() {
             eyebrow="Notre mission"
             title="Sécuriser juridiquement chaque étape de votre croissance"
           />
-          <Reveal delay={80} className="space-y-5 text-base leading-relaxed text-beige-100/65">
+          <Reveal delay={80} className="space-y-5 text-justify hyphens-auto text-base leading-relaxed text-beige-100/65">
             <p>
               Nous intervenons à toutes les étapes de la vie d’une entreprise: création de société, modifications juridiques, approbation annuelle des comptes, fermeture ou cessation d’activité, mais également dans la protection et la sécurisation de vos projets. Dépôt de marques et de brevets, rédaction de CGV, CGU et mentions légales, contrats commerciaux, conformité juridique ou encore accompagnement dans vos différentes démarches liés a des secteurs particuliers comme le transport (DRIEAT), le médical, la restauration et tout autre secteur réglementé : 
               LegalLeader vous accompagne de manière globale et adaptée à vos besoins

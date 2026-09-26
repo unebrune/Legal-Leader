@@ -21,15 +21,19 @@ export default function ServicesPage() {
         <div className="container-xl relative">
           <p className="eyebrow mb-5">Nos services</p>
           <h1 className="max-w-2xl text-balance font-heading text-4xl font-medium tracking-tight text-beige-50 md:text-5xl">
-            Chez LegalLeader, nous accompagnons les entreprises et les entrepreneurs dans l’ensemble de leurs besoins juridiques, à chaque étape de leur développement.
+            LegalLeader accompagne les entrepreneurs dans la création, la gestion et l’évolution de leur activité.
           </h1>
-          <p className="mt-6 max-w-xl text-balance text-lg leading-relaxed text-beige-100/65">
-            Notre intervention couvre aussi bien les formalités juridiques liées à la vie de l’entreprise que la rédaction de documents, la protection de l’activité, le suivi des obligations légales ou encore l’information juridique nécessaire à la prise de décision. L’objectif est de proposer un accompagnement global, clair et accessible, afin que chaque dirigeant puisse sécuriser son activité sans se perdre dans la complexité juridique.
-
-Notre approche ne consiste pas uniquement à réaliser une démarche à votre place. Nous attachons une importance particulière à la compréhension du droit : expliquer les enjeux, rendre les obligations plus lisibles et permettre à nos clients de mieux appréhender les conséquences juridiques de leurs décisions.
-
-C’est dans cette logique que LegalLeader développe également une offre de formation directement liée à ses domaines d’expertise. Toutes les prestations que nous proposons ont vocation à pouvoir être transmises sous forme de formation, afin de permettre aux entrepreneurs, professionnels et futurs praticiens de développer leurs compétences et de gagner en autonomie
-          </p>
+          <div className="mt-6 max-w-xl space-y-8 text-justify hyphens-auto text-lg leading-relaxed text-beige-100/65">
+            <p>
+              Nos prestations couvrent les formalités en droit des sociétés, la rédaction de documents juridiques, la protection de l’activité et le suivi des obligations légales. Nous apportons également une information juridique claire pour aider les dirigeants à comprendre les enjeux de leurs décisions.
+            </p>
+            <p>
+              Notre approche repose sur la rigueur, la clarté et la proximité. Chaque intervention vise à répondre à un besoin concret, tout en donnant à nos clients une meilleure compréhension de leurs démarches et de leurs obligations.
+            </p>
+            <p>
+              LegalLeader propose également des formations dans ses domaines d’expertise, destinées aux entrepreneurs, aux professionnels et aux futurs praticiens qui souhaitent développer leurs compétences et gagner en autonomie.
+            </p>
+          </div>
         </div>
       </section>
 

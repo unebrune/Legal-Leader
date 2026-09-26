@@ -26,20 +26,20 @@ export const services: ServiceDetail[] = [
       {
         title: "Entreprise Individuelle (EI)",
         description:
-          "Structuration rapide pour les entrepreneurs solos, avec séparation du patrimoine professionnel et personnel.",
+          "Anciennement auto-entreprise, bénéficiez du statut de l’entreprise individuelle pour une facilité de gestion sans prise de tête.",
       },
       {
-        title: "SAS / SASU",
+        title: "SAS / SASU (Société par actions simplifiées) ",
         description:
           "Statuts sur mesure, gouvernance flexible, pacte d'associés — la structure de référence pour lever des fonds.",
       },
       {
-        title: "SARL",
+        title: "SARL (Société à responsabilité limitée)",
         description:
-          "Cadre juridique éprouvé pour les projets familiaux ou à associés stables, avec formalisme protecteur.",
+          "Profitez d’un cadre juridique sécurisé avec un formalisme protecteur, parfait pour préserver votre responsabilité ",
       },
       {
-        title: "SCI",
+        title: "SCI (Société civile immobilière)",
         description:
           "Constitution de société civile immobilière pour l'acquisition, la gestion et la transmission de patrimoine.",
       },

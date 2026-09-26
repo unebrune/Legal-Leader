@@ -10,7 +10,7 @@ export default function Footer() {
         <div>
           <Logo />
           <p className="mt-5 max-w-xs text-sm leading-relaxed text-beige-100/60">
-            Cabinet de droit des affaires nouvelle génération, au service des
+            Cabinet spécialisé en droit des affaires nouvelle génération, au service des
             entrepreneurs et des sociétés commerciales à Paris et partout en
             France.
           </p>

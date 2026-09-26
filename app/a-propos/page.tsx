@@ -39,7 +39,7 @@ export default function AboutPage() {
               LegalLeader vous accompagne de manière globale et adaptée à vos besoins
             </p>
             <p>
-              Notre équipe est composée de juristes spécialisés en droit des affaires, droit des sociétés et droit de la concurrence. La particularité de LegalLeader repose sur la polyvalence de ses juristes, qui associent des compétences juridiques, économiques et commerciales et digitales. Cette approche nous permet de comprendre votre entreprise dans son ensemble et de vous proposer des solutions qui prennent en compte aussi bien les enjeux juridiques que les réalités concrètes de votre activité
+              Notre équipe est composée de juristes spécialisés en droit des affaires, droit des sociétés et droit de la concurrence. La particularité de LegalLeader repose sur la polyvalence de ses juristes, qui associent des compétences juridiques, économiques, commerciales et digitales. Cette approche nous permet de comprendre votre entreprise dans son ensemble et de vous proposer des solutions qui prennent en compte aussi bien les enjeux juridiques que les réalités concrètes de votre activité
             
             Chez LegalLeader, nous plaçons également la relation avec nos clients au cœur de notre accompagnement. Chaque dossier est traité avec attention, rigueur et implication. Nous prenons le temps de comprendre votre projet, vos objectifs et vos contraintes afin de vous proposer un accompagnement réellement adapté à votre situation.
 

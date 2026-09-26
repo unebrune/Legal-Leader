@@ -5,13 +5,6 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
 
-// Note: body copy uses the Geist family (locally bundled, no build-time
-// network fetch required) for both headings and text — a deliberate
-// simplification vs. pairing with Google's Inter, which keeps builds fast
-// and reliable in network-restricted CI/sandbox environments. Swap in
-// `next/font/google` Inter for `--font-body` if a distinct body face is
-// preferred; see tailwind.config.js `fontFamily.body`.
-
 const SITE_URL = "https://www.legal-leader.fr";
 
 export const metadata: Metadata = {

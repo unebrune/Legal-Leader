@@ -20,6 +20,7 @@ export const blogPosts: BlogPost[] = [
     category: "Facturation électronique",
     date: "2026-09-04",
     readingTime: "10 min",
+    image: "/blog/facturation-electronique.jpeg",
     content: [
       "Depuis le 1er septembre 2026, la réforme de la facturation électronique est officiellement entrée dans sa phase opérationnelle en France. Cette évolution constitue un changement important dans les habitudes de facturation des entreprises : à terme, l’envoi d’une simple facture au format PDF par e-mail ne suffira plus pour les opérations entrant dans le champ de la réforme",
       "L’objectif poursuivi par l’administration est notamment de simplifier les échanges entre entreprises, d’améliorer le suivi des transactions, de faciliter à terme le préremplissage des déclarations de TVA et de renforcer la lutte contre la fraude fiscale. ",
@@ -53,6 +54,7 @@ export const blogPosts: BlogPost[] = [
     category: "Cession d’entreprise",
     date: "2026-09-04",
     readingTime: "7 min",
+    image: "/blog/cession-entreprise.jpeg",
     content: [
       "La loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique a modifié les règles applicables à l’information des salariés en cas de cession d’entreprise. L’objectif est d’alléger les contraintes pesant sur les dirigeants tout en maintenant, dans les cas prévus par la loi, la possibilité pour les salariés de présenter une offre de reprise.",
    "Ces nouvelles règles concernent notamment la vente d’un fonds de commerce ainsi que certaines cessions de titres donnant accès à la majorité du capital d’une société. Elles s’appliquent aux ventes conclues au moins deux mois après la promulgation de la loi, soit, en pratique, aux opérations conclues à compter du 27 juillet 2026",
@@ -92,6 +94,7 @@ export const blogPosts: BlogPost[] = [
     category: "Loi de simplification de la vie économique",
     date: "2026-09-04",
     readingTime: "10 min",
+    image: "/blog/loi-simplification.jpeg",
     content: [
       "Toutes les mesures n’entrent pas en vigueur à la même date : certaines sont applicables depuis le 28 mai 2026, d’autres à compter du 1er janvier 2027, tandis que plusieurs dispositions restent subordonnées à la publication de textes réglementaires",
       "À retenir : la loi ne se limite pas aux formalités administratives. Elle touche aussi la cession d’entreprise, les baux commerciaux, les marchés publics, les relations bancaires et assurantielles et certaines obligations de déclaration",
